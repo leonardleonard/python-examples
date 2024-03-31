@@ -11,3 +11,9 @@ If you have any suggestion to improve this repository, feel free to open an issu
 - [LinkedIn](https://www.linkedin.com/company/arjancodes)
 - [Twitter](https://twitter.com/arjancodes)
 - [Instagram](https://www.instagram.com/arjancodes)
+
+python -m venv envleonard
+source envleonard/bin/activate
+
+https://www.youtube.com/watch?v=dryNwWvSd4M
+
